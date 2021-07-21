@@ -14,7 +14,7 @@
 </p>
 
 - This repository contains the code/script to predict 5 types of Yoga poses.
-- Dataset is available in the [link]().
+- Dataset is available in the [link](https://github.com/dhhruv/Yoga-Pose-Prediction/releases/download/0.0/yoga.pose.dataset.zip).
 
 ### Results:
 
